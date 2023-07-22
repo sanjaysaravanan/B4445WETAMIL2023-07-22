@@ -1,0 +1,44 @@
+Topics:
+
+  APIs: what is API?
+
+    used as an interface between applications
+
+      Front-End ( HTML, CSS, JS )
+      Backend ( Primary language JS, Express, DB)
+
+    API --> Communicates with the help of Data formats ( XML, JSON, etc)
+    Currently JSON is the widely used format for APIs
+  
+  Public APIs:
+    Open source APIs for getting information open sourced data
+
+  MockAPI --> Open source Application to practice CRUD with APIs
+    CRUD:
+      Operation  Method
+      Create --> POST
+      Read   --> GET
+      Update --> PUT
+      Delete --> DELETE
+
+  Post-Man:
+    Open source tool for executing HTTP methods
+
+  MockAPI and CRUD with React:
+
+    1. Update Movie
+    2. Delete Movie
+
+  useRef:
+    used only for adding event listeners
+    or
+    Accessing DOMs common methods like pause, play from another DOM element
+
+    Codesandbox: https://codesandbox.io/s/eager-galois-plwjy2?file=/src/App.js
+
+Task:
+  Session task – profile name changes
+
+Next Session:
+  simple game design
+  useReducer
